@@ -1,1 +1,2 @@
 #!/bin/bash
+find ./* -type -print | wv -l
