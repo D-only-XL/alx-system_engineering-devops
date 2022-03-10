@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./* -type -print | wv -l
+find ./* -type -print | wc -l
